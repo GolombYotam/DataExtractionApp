@@ -67,34 +67,6 @@ UI tests are located in the `src/androidTest/java/com/example/dataextractionapp`
     - Open the `ComposablesTest` class.
     - Right-click and select `Run 'ComposablesTest'`.
 
-## Project Structure
-
-DataExtractionApp/
-├── app/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/com/example/dataextractionapp/
-│ │ │ │ ├── MainActivity.kt
-│ │ │ │ ├── ComposableFactory.kt
-│ │ │ │ ├── ui/theme/
-│ │ │ │ │ ├── Color.kt
-│ │ │ │ │ ├── Theme.kt
-│ │ │ │ │ ├── Type.kt
-│ │ │ ├── res/
-│ │ │ │ ├── layout/
-│ │ │ │ ├── values/
-│ ├── build.gradle
-│ ├── AndroidManifest.xml
-├── sdk/
-│ ├── src/
-│ │ ├── main/
-│ │ │ ├── java/com/example/sdk/
-│ │ │ │ ├── DataExtractor.kt
-│ │ ├── test/
-│ │ │ ├── java/com/example/sdk/
-│ │ │ │ ├── DataExtractorTest.kt
-├── README.md
-
 
 ## Dependencies
 
